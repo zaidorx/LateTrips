@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Late Trips</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clientId_header">Client Id</string>
+    <string name="time_header">On Board</string>
+    <string name="run_header">Run</string>
+    <string name="pickup_header">Pickup</string>
+    <string name="title_activity_msg_details">MsgDetails</string>
+    <string name="clientId_str">Client Id</string>
+    <string name="passenger_name">Passenger Name</string>
+    <string name="sched_time">Scheduled Time</string>
+    <string name="run_type">Run Type</string>
+    <string name="est_pu">Estimated Pickup</string>
+    <string name="mins_late">Mins Late</string>
+    <string name="run_name">Run Name</string>
+    <string name="driver_name">Driver</string>
+    <string name="tempSpace">TmpSpace</string>
+    <string name="title_activity_message_data">Message Data</string>
+
+</resources>
